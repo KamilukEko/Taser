@@ -1,0 +1,16 @@
+C:\Users\Kamil\Desktop\Taser\Taser\bin\Release\Taser.dll
+C:\Users\Kamil\Desktop\Taser\Taser\bin\Release\Taser.pdb
+C:\Users\Kamil\Desktop\Taser\Taser\bin\Release\Assembly-CSharp.dll
+C:\Users\Kamil\Desktop\Taser\Taser\bin\Release\com.rlabrecque.steamworks.net.dll
+C:\Users\Kamil\Desktop\Taser\Taser\bin\Release\Rocket.API.dll
+C:\Users\Kamil\Desktop\Taser\Taser\bin\Release\Rocket.Core.dll
+C:\Users\Kamil\Desktop\Taser\Taser\bin\Release\Rocket.Unturned.dll
+C:\Users\Kamil\Desktop\Taser\Taser\bin\Release\SDG.NetTransport.dll
+C:\Users\Kamil\Desktop\Taser\Taser\bin\Release\UnityEngine.CoreModule.dll
+C:\Users\Kamil\Desktop\Taser\Taser\bin\Release\UnityEngine.dll
+C:\Users\Kamil\Desktop\Taser\Taser\bin\Release\UnityEngine.PhysicsModule.dll
+C:\Users\Kamil\Desktop\Taser\Taser\obj\Release\Taser.csproj.AssemblyReference.cache
+C:\Users\Kamil\Desktop\Taser\Taser\obj\Release\Taser.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\Taser\Taser\obj\Release\Taser.csproj.CopyComplete
+C:\Users\Kamil\Desktop\Taser\Taser\obj\Release\Taser.dll
+C:\Users\Kamil\Desktop\Taser\Taser\obj\Release\Taser.pdb

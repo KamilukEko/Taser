@@ -1,0 +1,16 @@
+C:\Users\Kamil\Desktop\Taser\Taser\bin\Debug\Taser.dll
+C:\Users\Kamil\Desktop\Taser\Taser\bin\Debug\Taser.pdb
+C:\Users\Kamil\Desktop\Taser\Taser\bin\Debug\Assembly-CSharp.dll
+C:\Users\Kamil\Desktop\Taser\Taser\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\Kamil\Desktop\Taser\Taser\bin\Debug\Rocket.API.dll
+C:\Users\Kamil\Desktop\Taser\Taser\bin\Debug\Rocket.Core.dll
+C:\Users\Kamil\Desktop\Taser\Taser\bin\Debug\Rocket.Unturned.dll
+C:\Users\Kamil\Desktop\Taser\Taser\bin\Debug\SDG.NetTransport.dll
+C:\Users\Kamil\Desktop\Taser\Taser\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Kamil\Desktop\Taser\Taser\bin\Debug\UnityEngine.dll
+C:\Users\Kamil\Desktop\Taser\Taser\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Kamil\Desktop\Taser\Taser\obj\Debug\Taser.csproj.AssemblyReference.cache
+C:\Users\Kamil\Desktop\Taser\Taser\obj\Debug\Taser.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\Taser\Taser\obj\Debug\Taser.csproj.CopyComplete
+C:\Users\Kamil\Desktop\Taser\Taser\obj\Debug\Taser.dll
+C:\Users\Kamil\Desktop\Taser\Taser\obj\Debug\Taser.pdb

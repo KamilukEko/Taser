@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taser", "Taser\Taser.csproj", "{10D61B05-EB73-4E97-9FA4-346AC9CA1AEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10D61B05-EB73-4E97-9FA4-346AC9CA1AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D61B05-EB73-4E97-9FA4-346AC9CA1AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D61B05-EB73-4E97-9FA4-346AC9CA1AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D61B05-EB73-4E97-9FA4-346AC9CA1AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
