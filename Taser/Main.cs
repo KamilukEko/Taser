@@ -68,7 +68,7 @@ namespace Taser
         {
             shouldallow = true;
             
-            if (parameters.cause != EDeathCause.GUN && parameters.cause != EDeathCause.MELEE)
+            if (parameters.killer == Provider.server)
                 return;
             
             var killer = UnturnedPlayer.FromCSteamID(parameters.killer);
