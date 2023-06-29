@@ -25,11 +25,6 @@ namespace Taser
 
         private IEnumerator TasingEffects(Player player, float time)
         {
-            if (Configuration.Instance.MakePlayerExitVehicle)
-            {
-                VehicleManager.forceRemovePlayer(player.channel.owner.playerID.steamID);
-            }
-            
             if (Configuration.Instance.MakePlayerStop)
             {
                 player.movement.sendPluginSpeedMultiplier(0);
@@ -43,6 +38,11 @@ namespace Taser
                 
                 if (time <= 0)
                     break;
+                
+                if (Configuration.Instance.MakePlayerExitVehicle)
+                {
+                    VehicleManager.forceRemovePlayer(player.channel.owner.playerID.steamID);
+                }
                 
                 if (Configuration.Instance.MakePlayerProne)
                     player.stance.checkStance(EPlayerStance.PRONE, true);
