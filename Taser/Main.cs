@@ -40,9 +40,7 @@ namespace Taser
                     break;
                 
                 if (Configuration.Instance.MakePlayerExitVehicle)
-                {
                     VehicleManager.forceRemovePlayer(player.channel.owner.playerID.steamID);
-                }
                 
                 if (Configuration.Instance.MakePlayerProne)
                     player.stance.checkStance(EPlayerStance.PRONE, true);
