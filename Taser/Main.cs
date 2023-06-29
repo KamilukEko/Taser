@@ -50,8 +50,7 @@ namespace Taser
                 if (Configuration.Instance.MakePlayerSurrender)
                     player.animator.sendGesture(EPlayerGesture.SURRENDER_START, true);
             }
-            
-            
+
             if (Configuration.Instance.MakePlayerProne)
                 player.stance.checkStance(EPlayerStance.STAND, true);
             
@@ -69,6 +68,9 @@ namespace Taser
         {
             shouldallow = true;
             var killer = UnturnedPlayer.FromCSteamID(parameters.killer);
+            
+            if (killer == null)
+                return;
             
             if (!Configuration.Instance.TaserIDs.Contains(killer.Player.equipment.itemID))
                 return;
