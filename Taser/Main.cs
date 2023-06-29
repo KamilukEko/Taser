@@ -67,11 +67,12 @@ namespace Taser
         private void DamageToolOnDamagePlayerRequested(ref DamagePlayerParameters parameters, ref bool shouldallow)
         {
             shouldallow = true;
-            var killer = UnturnedPlayer.FromCSteamID(parameters.killer);
             
-            if (killer == null)
+            if (parameters.cause != EDeathCause.GUN && parameters.cause != EDeathCause.MELEE)
                 return;
             
+            var killer = UnturnedPlayer.FromCSteamID(parameters.killer);
+
             if (!Configuration.Instance.TaserIDs.Contains(killer.Player.equipment.itemID))
                 return;
             
